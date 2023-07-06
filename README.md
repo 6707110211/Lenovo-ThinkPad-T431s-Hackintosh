@@ -1,51 +1,5 @@
-Called to the Devil and the Devil did come
-I said to the Devil, "Devil, do you like drums?
-Do you like cigarettes, dominoes, rum?"
-He said, "Only sundown, Sundays, Christmas"
-Some days end when I need a few friends
-Now and again, I could never hope to keep them
-Thought to give friends what I thought that they wanted
-Never had they needed a good friend as I've been
-Don't get me ventin' on friends who resent you
-'Cause all you've ever done is been a noose to hang on to
-They thought was a necklace and reckless
-They fell into Hell where you both hang with nothing to do but
-Scratch, kick, let gravity win like
-Fuck this, let gravity win like
-You could leave it all behind
-Even the Devil need time alone sometimes
-You could let it all go
-You could let it all go
-It's called "freefall"
-It's called "freefall"
-Called to the Devil and the Devil said, "Quit
-Can't be bothered, better handle y'all shit
-Keep about your wits, man, keep about your wits
-Know yourself and who you came in with
-Can I sit down? I've been hustlin' all day
-I can't even count how many souls I've made
-Off the same deal you're on
-Remember, the Devil ain't a friend to no one
-But fine, true
-Well, you could let it all go
-You could let it all go
-It's called "freefall"
-It's called "freefall"
-Called to the Devil and the Devil said, "Hey
-Why you been callin' this late?
-It's like 2 AM and the bars all close at 10 in Hell
-That's a rule I made
-Anyway, you say you're too busy
-Savin' everybody else to save yourself
-And you don't want no help, oh well
-That's the story to tell"
-Like, you could let it all go
-You could let it all go
-It's called "freefall"
-It's called "freefall"
-You could let it all go
-You could let it all go
-'Cause ain't shit free but fallin' out
-That shit's easy, let me show you how, it's like
-Ain't shit free but fallin' out
-That shit's easy, let me show you how, it's like
+this is been a hell of a ride and im kind of glad its over. t431s has a lot of problems and most have been patched by me. Many of the patches I had to do myself. Countless sleepless nights. This has to be up there on hardest laptops to hackintosh. but at the same time once you get it working its beautiful. Its like finding treasure at the center of the earth tbh. The reason why Im abandoning this is because I need windows on here and plus I already have a macbook. I hope someone could go and patch some of the problems with this thinkpad.
+
+problems: Imessage, appstore does not work. fans constantly spinning bc Cpu powermanagment has not been fixed (have not been able to get bios dump to see the interval or whatever)
+Anyway this laptop is a beautiful monster. I have cried many times of happiness and sadness with this laptop. There is always a problem. But this laptop is so fuckin fun to debug.
+I hope someone will use this! anyway pls enjoy life!
