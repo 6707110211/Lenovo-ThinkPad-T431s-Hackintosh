@@ -1,5 +1,9 @@
-this is been a hell of a ride and im kind of glad its over. t431s has a lot of problems and most have been patched by me. Many of the patches I had to do myself. Countless sleepless nights. This has to be up there on hardest laptops to hackintosh. but at the same time once you get it working its beautiful. Its like finding treasure at the center of the earth tbh. The reason why Im abandoning this is because I need windows on here and plus I already have a macbook. I hope someone could go and patch some of the problems with this thinkpad.
+Welcome to the T431s hackintosh! First T431s to support opencore! We have changed plans and we want to have regular updates! I have seen lots of people asking about the T431s but no one rlly has answers about the machine. Thats where I come in!
 
-problems: Imessage, appstore does not work. fans constantly spinning bc Cpu powermanagment has not been fixed (have not been able to get bios dump to see the interval or whatever)
-Anyway this laptop is a beautiful monster. I have cried many times of happiness and sadness with this laptop. There is always a problem. But this laptop is so fuckin fun to debug.
-I hope someone will use this! anyway pls enjoy life!
+Lots of new bug fixes in version 1.1!
+
+doneate: 
+  Ethereum: 0xcba18ba3ec9e2248b0a7219b85064fbe388d72b9
+  Bitcoin: 3LHVSz5J8WE77AwiqZ28hCUhNpNZKP4PWo
+  DogeCoin: DR7ra67FmG95eqSsapnTn6MevWRc3f6Mcc
+  
