@@ -3,7 +3,10 @@ Welcome to the T431s hackintosh! First T431s to support opencore! We have change
 Lots of new bug fixes in version 1.1!
 
 donate:
+
 Ethereum: 0xcba18ba3ec9e2248b0a7219b85064fbe388d72b9
+
 Bitcoin: 3LHVSz5J8WE77AwiqZ28hCUhNpNZKP4PWo
+
 DogeCoin: DR7ra67FmG95eqSsapnTn6MevWRc3f6Mcc
   
