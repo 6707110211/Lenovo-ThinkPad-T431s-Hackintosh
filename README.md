@@ -1,4 +1,4 @@
-![Header Image](Opencore Logo.png)
+![Header Image](OpencoreLogo.png)
 ![Header Image](Header.png)
 
 Welcome to the T431s hackintosh! First Lenovo Thinkpad T431s to support Opencore! We have changed plans and we want to have regular updates! I have seen lots of people asking about the T431s but no one rlly has answers about the machine. Thats where I come in!
