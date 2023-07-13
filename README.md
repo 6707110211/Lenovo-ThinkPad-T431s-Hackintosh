@@ -1,5 +1,5 @@
 <img src="https://t.ly/iAg3b" data-canonical-src="https://t.ly/iAg3b" width="200" height="200" />
-![Header Image](Header.png)
+<img src="https://ibb.co/Xt1FrQd" data-canonical-src="https://ibb.co/Xt1FrQd" width="200" height="200" />
 
 Welcome to the T431s hackintosh! First Lenovo Thinkpad T431s to support Opencore! We have changed plans and we want to have regular updates! I have seen lots of people asking about the T431s but no one rlly has answers about the machine. Thats where I come in!
 
