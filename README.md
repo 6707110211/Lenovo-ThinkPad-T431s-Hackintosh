@@ -4,7 +4,7 @@
 <a href="https://ibb.co/Xt1FrQd"><img src="https://i.ibb.co/89qPLCR/Header.png" width="1255" height="450" alt="Header" border="0"></a>
 
 
-Welcome to the T431s hackintosh! First Lenovo Thinkpad T431s to support Opencore! We have changed plans and we want to have regular updates! I have seen lots of people asking about the T431s but no one rlly has answers about the machine. Thats where I come in!
+Welcome to the T431s hackintosh! First Lenovo Thinkpad T431s to support Opencore! We have changed plans and we want to have regular updates! I have seen lots of people asking about the T431s but no one rlly has answers about the machine. Thats where I come in! Make sure to put bugs/problems in the issues tab!
 
 Lots of new bug fixes in version 1.2!
 
